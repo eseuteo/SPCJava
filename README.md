@@ -1,0 +1,2 @@
+# SPCJava
+SPC course exercises
